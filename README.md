@@ -30,6 +30,6 @@ learning, ETL e bancos de dados.
 ---
 
 ### 📬 Onde me encontrar
-[![Contact-me at elizabeth.s.thomaz@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elizabeth.s.thomaz@gmail.com) [![Find-me on linkedin.com/in/elizabeth-thomaz-a91440157/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elizabeth-thomaz-a91440157/) [![Find-me on github.com/nilatala/](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nilatala/)
+[![Contact-me at elizabeth.s.thomaz@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elizabeth.s.thomaz@gmail.com) [![Find-me on linkedin.com/in/elizabeth-thomaz-a91440157/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elizabeth-thomaz-a91440157/) [![Find-me on github.com/nilatala/](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nilatala/Resumos-e-Desafios-DIO/tree/main)
 
 📌 Em constante aprendizado e construção de portfólio.
