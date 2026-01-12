@@ -1,4 +1,4 @@
-## 👋 Oi, eu sou a Eliza
+## 👋 Oi, eu sou a Eliza!
 
 🎓 Licenciada em Física | Finalizando Engenharia da Computação  
 📊 Em transição para Análise de Dados e Ciência de Dados  
