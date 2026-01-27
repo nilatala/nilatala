@@ -25,7 +25,7 @@ learning, ETL e bancos de dados.
 
 ### 📊 Análise de Acidentes de Trânsito no Brasil (2024)
 Análise exploratória, visualização e geração de insights a partir de dados públicos.  
-➡️ Python, Pandas, Matplotlib, Power BI  
+➡️ Python, Pandas, Matplotlib
 🔗 https://github.com/nilatala/projeto-acidentes-transito
 
 ### 🔄 Pipeline ETL com IA Generativa
@@ -55,7 +55,7 @@ Dashboard interativo para análise de desempenho comercial.
 
 ## 🛠️ Tecnologias
 - **Linguagens:** Python, SQL  
-- **Dados:** Pandas, NumPy, Scikit-learn  
+- **Dados:** Pandas, NumPy, Scikit-learn, Matplotlib  
 - **BI:** Power BI, Excel  
 - **Bancos:** MySQL, PostgreSQL, MongoDB, Neo4j  
 - **Cloud:** AWS  
