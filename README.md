@@ -23,19 +23,34 @@ learning, ETL e bancos de dados.
 
 ## 🚀 Projetos em Destaque
 
+### 💳 Classificação de Inadimplência: Análise de Modelos e Ajuste de Limiar
+Previsão de inadimplência de clientes de cartão de crédito.
+➡️ ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+🔗 https://github.com/nilatala/classificacao-inadimplencia-cartao-credito-ml
+
 ### 📊 Análise de Acidentes de Trânsito no Brasil (2024)
 Análise exploratória, visualização e geração de insights a partir de dados públicos.  
-➡️ Python, Pandas, Matplotlib
+➡️ ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 🔗 https://github.com/nilatala/projeto-acidentes-transito
 
 ### 🔄 Pipeline ETL com IA Generativa
 Pipeline automatizado com integração de IA para processamento e enriquecimento de dados.  
-➡️ Python, FastAPI, Gemini, SQL  
+➡️ ![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white) ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252) ![FastAPI](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white) ![Ngrok](https://img.shields.io/badge/ngrok-140648?style=for-the-badge&logo=Ngrok&logoColor=white) 
 🔗 https://github.com/nilatala/Resumos-e-Desafios-DIO/tree/main/Desafios/Projeto_Pipeline_Python_IA
 
 ### 📈 Dashboard de Vendas
 Dashboard interativo para análise de desempenho comercial.  
-➡️ Excel, ETL  
+➡️ ETL, ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 🔗 https://github.com/nilatala/Resumos-e-Desafios-DIO/tree/main/Desafios/Projeto_Dashboard_Vendas
 
 ---
