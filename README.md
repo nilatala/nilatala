@@ -25,6 +25,7 @@ learning, ETL e bancos de dados.
 
 ### 💳 Classificação de Inadimplência: Análise de Modelos e Ajuste de Limiar
 Previsão de inadimplência de clientes de cartão de crédito.
+
 ➡️ ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -34,7 +35,7 @@ Previsão de inadimplência de clientes de cartão de crédito.
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white) 
 
 🔗 https://github.com/nilatala/classificacao-inadimplencia-cartao-credito-ml
-
+---
 ### 📊 Análise de Acidentes de Trânsito no Brasil (2024)
 Análise exploratória, visualização e geração de insights a partir de dados públicos. 
 
