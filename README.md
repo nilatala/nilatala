@@ -25,7 +25,6 @@ learning, ETL e bancos de dados.
 
 ### 💳 Classificação de Inadimplência: Análise de Modelos e Ajuste de Limiar
 Previsão de inadimplência de clientes de cartão de crédito.
-
 ➡️ ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -79,7 +78,7 @@ Dashboard interativo para análise de desempenho comercial.
 
 ## 🛠️ Tecnologias
 - **Linguagens:** Python, SQL  
-- **Dados:** Pandas, NumPy, Scikit-learn, Matplotlib  
+- **Dados:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 - **BI:** Power BI, Excel  
 - **Bancos:** MySQL, PostgreSQL, MongoDB, Neo4j  
 - **Cloud:** AWS  
