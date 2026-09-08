@@ -111,7 +111,7 @@ Dashboard gerencial desenvolvido para análise de indicadores e desempenho de ve
 
 ## 📚 Formação
 
-🎓 ** Bacharelado em Engenharia da Computação** — UNIVESP  
+🎓 **Bacharelado em Engenharia da Computação** — UNIVESP  
 🎓 **Licenciatura em Física** - IFSP
 
 ---
